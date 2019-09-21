@@ -1,1 +1,1 @@
-var  = ({supper:'lettuce'})
+var playlist = new Object()
